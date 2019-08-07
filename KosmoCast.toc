@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: KosmoCast
+## Version: 1
+## Notes: does the kosmo cast thing
+## DefaultState: enabled
+## Author: Retherz
+
+KosmoCast.lua
